@@ -1,2 +1,1 @@
-“my second commit”
-   "updaten Second  commit"
+Create a .gitignore file and define a rule to never push ~ files
